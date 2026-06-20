@@ -19,6 +19,7 @@ The lifecycle continues through **release and deployment**, including CI/securit
 - [Release and deployment](./octoacme-release-and-deployment.md)
 - [Retrospective and continuous improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and personas](./octoacme-roles-and-personas.md)
+- [Role engagement checklist](./octoacme-role-engagement-checklist.md)
 
 ## Recommended next steps
 - Link this docs entry point from the repository root `README.md` for easier discoverability.
